@@ -1,0 +1,21 @@
+@tailwind utilities;
+
+.keypad {
+    @apply flex flex-row flex-wrap;
+}
+
+.keypad-value {
+    @apply flex items-center justify-center bg-gray-800 h-20;
+}
+
+.keypad-value-text {
+    @apply text-white p-4 text-4xl font-bold;
+}
+
+.keypad-button {
+    @apply text-white w-1/3 h-24 flex items-center justify-center;
+}
+
+.keypad-button-text {
+    @apply text-white text-3xl font-bold;
+}

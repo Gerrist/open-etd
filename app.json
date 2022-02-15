@@ -1,0 +1,7 @@
+{
+    "name": "open-etd",
+    "displayName": "OpenETD",
+    "expo": {
+        "sdkVersion": "44.0.0"
+    }
+}
