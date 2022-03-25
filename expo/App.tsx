@@ -4,9 +4,9 @@ import { SafeAreaView, StatusBar } from "react-native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { NavigationContainer } from "@react-navigation/native";
 
-import MainScreen from "../src/screens/Main";
-import LocationCheckScreen from "../src/screens/LocationCheck";
-import Timetable from '../src/screens/Timetable';
+import MainScreen from "./src/screens/Main";
+import LocationCheckScreen from "./src/screens/LocationCheck";
+import Timetable from './src/screens/Timetable';
 
 const Stack = createNativeStackNavigator();
 
