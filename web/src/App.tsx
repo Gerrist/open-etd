@@ -1,5 +1,6 @@
 import {useRecoilState} from "recoil";
 import {NavigationStates} from "./states/navigation";
+import Shift from "./pages/Shift";
 
 export default function App() {
     const [page, setPage] = useRecoilState(NavigationStates.page);
@@ -15,9 +16,7 @@ export default function App() {
             }
             {
                 page == 'shift' && (
-                    <h1 className="text-3xl font-bold underline">
-                        Page Shift placeholder
-                    </h1>
+                    <Shift />
                 )
             }
             {
