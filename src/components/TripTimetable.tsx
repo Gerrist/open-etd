@@ -8,11 +8,15 @@ const TripTimetable = (props: { trip: Trip }) => {
 	const tw = useTailwind();
 
 	return (
-		<View style={{
-            marginTop: -85*2
-        }}>
+		<View
+			style={
+				{
+					// marginTop: -85*2
+				}
+			}
+		>
 			{props.trip.route.map((point, index) => {
-				console.log(point);
+				// console.log(point);
 				return (
 					<View
 						key={Math.random()}
@@ -90,9 +94,13 @@ const TripTimetable = (props: { trip: Trip }) => {
 						>
 							<View
 								style={{
-									height: (index == 0 || index == props.trip.route.length - 1) ? 85 / 2 : 85,
-                                    position: "absolute",
-                                    paddingTop: index == 0 ? 85 / 3 : 0,
+									height:
+										index == 0 ||
+										index == props.trip.route.length - 1
+											? 85 / 2
+											: 85,
+									position: "absolute",
+									paddingTop: index == 0 ? 85 / 3 : 0,
 								}}
 							>
 								<View
@@ -100,8 +108,8 @@ const TripTimetable = (props: { trip: Trip }) => {
 										borderRightWidth: 2,
 										borderColor: "#ffffff",
 										borderStyle: "solid",
-                                        marginRight: 2,
-                                        height: index == 0 ? 85 / 2 : 85
+										marginRight: 2,
+										height: index == 0 ? 85 / 2 : 85,
 									}}
 								>
 									<Text> </Text>
@@ -111,7 +119,9 @@ const TripTimetable = (props: { trip: Trip }) => {
 								style={{
 									...tw(
 										`absolute rounded-full border border-white w-5 h-5 ${
-											point.stops ? "bg-white" : "border-transparent"
+											point.stops
+												? "bg-white"
+												: "border-transparent"
 										}`
 									),
 									zIndex: 10,

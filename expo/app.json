@@ -1,0 +1,11 @@
+{
+  "name": "open-etd",
+  "displayName": "OpenETD",
+  "expo": {
+    "sdkVersion": "44.0.0",
+    "android": {
+      "package": "nl.verala.openetd",
+      "versionCode": 3
+    }
+  }
+}
