@@ -23,7 +23,7 @@ type Trip = {
             },
             "location": {
                 "lat": number,
-                "lot": number
+                "lon": number
             }
         }[];
     }[];

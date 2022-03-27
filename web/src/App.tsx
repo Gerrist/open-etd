@@ -1,6 +1,7 @@
 import {useRecoilState} from "recoil";
 import {NavigationStates} from "./states/navigation";
 import Shift from "./pages/Shift";
+import TripScreen from "./pages/Trip";
 
 export default function App() {
     const [page, setPage] = useRecoilState(NavigationStates.page);
@@ -21,9 +22,7 @@ export default function App() {
             }
             {
                 page == 'trip' && (
-                    <h1 className="text-3xl font-bold underline">
-                        Page Trip placeholder
-                    </h1>
+                    <TripScreen />
                 )
             }
         </>

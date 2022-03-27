@@ -30,7 +30,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.98473057,
-                                "lot": 5.90149072
+                                "lon": 5.90149072
                             }
                         },
                         {
@@ -41,7 +41,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.98652049,
-                                "lot": 5.88660402
+                                "lon": 5.88660402
                             }
                         },
                         {
@@ -52,7 +52,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.98690134,
-                                "lot": 5.87726205
+                                "lon": 5.87726205
                             }
                         },
                         {
@@ -75,7 +75,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.99453369,
-                                "lot": 5.84110463
+                                "lon": 5.84110463
                             }
                         },
                         {
@@ -98,7 +98,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.00512849,
-                                "lot": 5.79513203
+                                "lon": 5.79513203
                             }
                         },
                         {
@@ -117,7 +117,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.02722565,
-                                "lot": 5.67521048
+                                "lon": 5.67521048
                             }
                         }
                     ]
@@ -147,7 +147,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.02722565,
-                                "lot": 5.67521048
+                                "lon": 5.67521048
                             }
                         },
                         {
@@ -170,7 +170,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.00512849,
-                                "lot": 5.79513203
+                                "lon": 5.79513203
                             }
                         },
                         {
@@ -193,7 +193,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.99453369,
-                                "lot": 5.84110463
+                                "lon": 5.84110463
                             }
                         },
                         {
@@ -204,7 +204,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.98690134,
-                                "lot": 5.87726205
+                                "lon": 5.87726205
                             }
                         },
                         {
@@ -215,7 +215,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.98652049,
-                                "lot": 5.88660402
+                                "lon": 5.88660402
                             }
                         },
                         {
@@ -234,7 +234,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.98473057,
-                                "lot": 5.90149072
+                                "lon": 5.90149072
                             }
                         }
                     ]
@@ -264,7 +264,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.540632,
-                                "lot": 4.45899054
+                                "lon": 4.45899054
                             }
                         },
                         {
@@ -287,7 +287,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.57522951,
-                                "lot": 4.63656164
+                                "lon": 4.63656164
                             }
                         },
                         {
@@ -298,7 +298,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.5922868,
-                                "lot": 4.75616084
+                                "lon": 4.75616084
                             }
                         },
                         {
@@ -321,7 +321,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.59537092,
-                                "lot": 4.78011879
+                                "lon": 4.78011879
                             }
                         },
                         {
@@ -332,7 +332,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.58368786,
-                                "lot": 4.92631985
+                                "lon": 4.92631985
                             }
                         },
                         {
@@ -343,7 +343,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.5735538,
-                                "lot": 4.99422084
+                                "lon": 4.99422084
                             }
                         },
                         {
@@ -354,7 +354,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.56515414,
-                                "lot": 5.05048326
+                                "lon": 5.05048326
                             }
                         },
                         {
@@ -365,7 +365,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.56373289,
-                                "lot": 5.05960847
+                                "lon": 5.05960847
                             }
                         },
                         {
@@ -388,7 +388,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.56070501,
-                                "lot": 5.08339606
+                                "lon": 5.08339606
                             }
                         },
                         {
@@ -399,7 +399,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.56224286,
-                                "lot": 5.10899827
+                                "lon": 5.10899827
                             }
                         },
                         {
@@ -410,7 +410,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.57904436,
-                                "lot": 5.12532744
+                                "lon": 5.12532744
                             }
                         },
                         {
@@ -421,7 +421,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.66263957,
-                                "lot": 5.29078347
+                                "lon": 5.29078347
                             }
                         },
                         {
@@ -444,7 +444,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.69066815,
-                                "lot": 5.29376092
+                                "lon": 5.29376092
                             }
                         },
                         {
@@ -455,7 +455,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.69955217,
-                                "lot": 5.29811107
+                                "lon": 5.29811107
                             }
                         },
                         {
@@ -466,7 +466,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.70050008,
-                                "lot": 5.3174929
+                                "lon": 5.3174929
                             }
                         },
                         {
@@ -477,7 +477,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.71512569,
-                                "lot": 5.36949047
+                                "lon": 5.36949047
                             }
                         },
                         {
@@ -488,7 +488,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.75839915,
-                                "lot": 5.50679634
+                                "lon": 5.50679634
                             }
                         },
                         {
@@ -511,7 +511,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.76522096,
-                                "lot": 5.53112226
+                                "lon": 5.53112226
                             }
                         },
                         {
@@ -522,7 +522,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.7664907,
-                                "lot": 5.54991544
+                                "lon": 5.54991544
                             }
                         },
                         {
@@ -533,7 +533,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.79448095,
-                                "lot": 5.63664228
+                                "lon": 5.63664228
                             }
                         },
                         {
@@ -544,7 +544,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.80556628,
-                                "lot": 5.67106676
+                                "lon": 5.67106676
                             }
                         },
                         {
@@ -555,7 +555,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.81140394,
-                                "lot": 5.73005053
+                                "lon": 5.73005053
                             }
                         },
                         {
@@ -566,7 +566,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.8240054,
-                                "lot": 5.79478162
+                                "lon": 5.79478162
                             }
                         },
                         {
@@ -577,7 +577,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.82730328,
-                                "lot": 5.82254751
+                                "lon": 5.82254751
                             }
                         },
                         {
@@ -600,7 +600,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.84342992,
-                                "lot": 5.85264071
+                                "lon": 5.85264071
                             }
                         },
                         {
@@ -611,7 +611,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.86320365,
-                                "lot": 5.85961059
+                                "lon": 5.85961059
                             }
                         },
                         {
@@ -622,7 +622,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.89330684,
-                                "lot": 5.85713759
+                                "lon": 5.85713759
                             }
                         },
                         {
@@ -633,7 +633,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.90229847,
-                                "lot": 5.85633072
+                                "lon": 5.85633072
                             }
                         },
                         {
@@ -644,7 +644,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.9082239,
-                                "lot": 5.85581128
+                                "lon": 5.85581128
                             }
                         },
                         {
@@ -655,7 +655,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.91715236,
-                                "lot": 5.85506137
+                                "lon": 5.85506137
                             }
                         },
                         {
@@ -666,7 +666,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.954862,
-                                "lot": 5.85191943
+                                "lon": 5.85191943
                             }
                         },
                         {
@@ -677,7 +677,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.98690134,
-                                "lot": 5.87726205
+                                "lon": 5.87726205
                             }
                         },
                         {
@@ -688,7 +688,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.98652049,
-                                "lot": 5.88660402
+                                "lon": 5.88660402
                             }
                         },
                         {
@@ -711,7 +711,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.98473057,
-                                "lot": 5.90149072
+                                "lon": 5.90149072
                             }
                         },
                         {
@@ -722,7 +722,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.98518933,
-                                "lot": 5.91959086
+                                "lon": 5.91959086
                             }
                         },
                         {
@@ -733,7 +733,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.98369634,
-                                "lot": 5.92571617
+                                "lon": 5.92571617
                             }
                         },
                         {
@@ -744,7 +744,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.98799843,
-                                "lot": 5.94380566
+                                "lon": 5.94380566
                             }
                         },
                         {
@@ -755,7 +755,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 51.99498074,
-                                "lot": 5.98090557
+                                "lon": 5.98090557
                             }
                         },
                         {
@@ -766,7 +766,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.01001647,
-                                "lot": 6.03081718
+                                "lon": 6.03081718
                             }
                         },
                         {
@@ -789,7 +789,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.04469067,
-                                "lot": 6.10293229
+                                "lon": 6.10293229
                             }
                         },
                         {
@@ -800,7 +800,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.09083999,
-                                "lot": 6.14693662
+                                "lon": 6.14693662
                             }
                         },
                         {
@@ -811,7 +811,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.14147069,
-                                "lot": 6.17979129
+                                "lon": 6.17979129
                             }
                         },
                         {
@@ -822,7 +822,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.14327826,
-                                "lot": 6.18763936
+                                "lon": 6.18763936
                             }
                         },
                         {
@@ -845,7 +845,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.1448164,
-                                "lot": 6.19406605
+                                "lon": 6.19406605
                             }
                         },
                         {
@@ -856,7 +856,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.15077782,
-                                "lot": 6.20289707
+                                "lon": 6.20289707
                             }
                         },
                         {
@@ -867,7 +867,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.15561679764195,
-                                "lot": 6.209115386009217
+                                "lon": 6.209115386009217
                             }
                         },
                         {
@@ -878,7 +878,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.15961036,
-                                "lot": 6.21365422
+                                "lon": 6.21365422
                             }
                         },
                         {
@@ -889,7 +889,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.25241417,
-                                "lot": 6.19546023
+                                "lon": 6.19546023
                             }
                         },
                         {
@@ -900,7 +900,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.25781901,
-                                "lot": 6.1817757
+                                "lon": 6.1817757
                             }
                         },
                         {
@@ -911,7 +911,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.25621733,
-                                "lot": 6.17263705
+                                "lon": 6.17263705
                             }
                         },
                         {
@@ -934,7 +934,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.25704688,
-                                "lot": 6.16134451
+                                "lon": 6.16134451
                             }
                         },
                         {
@@ -957,7 +957,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.33559157,
-                                "lot": 6.11347338
+                                "lon": 6.11347338
                             }
                         },
                         {
@@ -980,7 +980,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.39104509,
-                                "lot": 6.14107542
+                                "lon": 6.14107542
                             }
                         },
                         {
@@ -991,7 +991,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.50162276,
-                                "lot": 6.10019341
+                                "lon": 6.10019341
                             }
                         },
                         {
@@ -1010,7 +1010,7 @@ export default function Shift() {
                             },
                             "location": {
                                 "lat": 52.5046821,
-                                "lot": 6.09208319
+                                "lon": 6.09208319
                             }
                         }
                     ]
@@ -1032,10 +1032,7 @@ export default function Shift() {
                         key={`${trip.id}-${trip.date}`}
                         onClick={() => {
                             setPage('trip');
-                            setCurrentTrip({
-                                id: trip.id,
-                                date: trip.date
-                            });
+                            setCurrentTrip(trip);
                         }}
                         className={`border-2 border-gray-200 m-1 p-1 rounded flex flex-row`}
                     >
